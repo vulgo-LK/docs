@@ -64,7 +64,8 @@
     {
       "group": "Empresa",
       "pages": [
-        "suporte"
+        "suporte",
+        "faq"
       ]
     }
   ],
