@@ -60,6 +60,12 @@
         "painel/formatar-vps",
         "painel/upgrade-vps"
       ]
+    },
+    {
+      "group": "Empresa",
+      "pages": [
+        "suporte"
+      ]
     }
   ],
   "footerSocials": {
