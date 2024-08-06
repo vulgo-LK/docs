@@ -64,7 +64,7 @@
     {
       "group": "Empresa",
       "pages": [
-        "suporte"
+        "<i class=\"fa-solid fa-info\"></i> suporte"
       ]
     }
   ],
