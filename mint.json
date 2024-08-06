@@ -25,24 +25,25 @@
     "name": "Area do cliente",
     "url": "https://central.thundertophost.com.br/clientarea.php"
   },
+  "topAnchor": {
+    "name": "Documentação",
+    "icon": "book"
+  },
   "anchors": [
     {
       "name": "Nosso Discord",
       "icon": "discord",
-      "url": "https://discord.gg/HDu86adJh8",
-      "isDefaultHidden": true
+      "url": "https://discord.gg/HDu86adJh8"
     },
     {
       "name": "Nosso Youtube",
       "icon": "youtube",
-      "url": "https://www.youtube.com/@ThunderHostBR",
-      "isDefaultHidden": true
+      "url": "https://www.youtube.com/@ThunderHostBR"
     },
     {
       "name": "Siga no Instagram",
       "icon": "instagram",
-      "url": "https://www.instagram.com/thunderhostbr",
-      "isDefaultHidden": true
+      "url": "https://www.instagram.com/thunderhostbr"
     }
   ],
   "navigation": [
