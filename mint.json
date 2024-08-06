@@ -21,7 +21,7 @@
       "url": "https://central.thundertophost.com.br/submitticket.php"
     }
   ],
-  "topbarCTA": {
+  "topbarCtaButton": {
     "name": "Area do cliente",
     "url": "https://central.thundertophost.com.br/clientarea.php"
   },
