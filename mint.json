@@ -56,9 +56,9 @@
     {
       "group": "Painel de controle",
       "pages": [
-        "senhavps",
-        "formatar",
-        "upgrade"
+        "painel/trocar-senha-vps",
+        "painel/formatar-vps",
+        "painel/upgrade-vps"
       ]
     }
   ],
