@@ -42,6 +42,9 @@
       "url": "https://www.instagram.com/thunderhostbr"
     }
   ],
+  "primaryTab": {
+    "name": "Introdução"
+  },
   "navigation": [
     {
       "group": "Bem-vindo",
