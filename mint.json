@@ -52,6 +52,14 @@
       "pages": [
         "introduction"
       ]
+    },
+    {
+      "group": "Painel de controle",
+      "pages": [
+        "senhavps",
+        "formatar",
+        "upgrade"
+      ]
     }
   ],
   "footerSocials": {
