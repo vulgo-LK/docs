@@ -15,6 +15,10 @@
       "to": "#00C2FF"
     }
   },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },
   "topbarLinks": [
     {
       "name": "Suporte",
