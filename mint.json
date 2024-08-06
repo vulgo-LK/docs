@@ -1,17 +1,17 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Thunder Host",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#00B7FF",
     "light": "#07C983",
-    "dark": "#0D9373",
+    "dark": "#00B7FF",
     "anchors": {
-      "from": "#0D9373",
+      "from": "#00B7FF",
       "to": "#07C983"
     }
   },
