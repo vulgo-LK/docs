@@ -2,7 +2,7 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Thunder Host",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/dark.png",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
