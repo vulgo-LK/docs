@@ -32,8 +32,7 @@
   },
   "topAnchor": {
     "name": "Documentação",
-    "icon": "book",
-    "isDefaultHidden": true
+    "icon": "book"
   },
   "anchors": [
     {
