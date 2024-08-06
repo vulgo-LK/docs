@@ -15,6 +15,7 @@
       "to": "#00C2FF"
     }
   },
+  "theme": "prism",
   "modeToggle": {
     "default": "dark",
     "isHidden": true
