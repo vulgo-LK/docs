@@ -30,6 +30,11 @@
     "name": "Area do cliente",
     "url": "https://central.thundertophost.com.br/clientarea.php"
   },
+  "topAnchor": {
+    "name": "Documentação",
+    "icon": "book",
+    "isDefaultHidden": true
+  },
   "anchors": [
     {
       "name": "Nosso Discord",
