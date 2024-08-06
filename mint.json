@@ -27,22 +27,22 @@
   },
   "anchors": [
     {
-      "isDefaultHidden": true
-    },
-    {
       "name": "Nosso Discord",
       "icon": "discord",
-      "url": "https://discord.gg/HDu86adJh8"
+      "url": "https://discord.gg/HDu86adJh8",
+      "isDefaultHidden": true
     },
     {
       "name": "Nosso Youtube",
       "icon": "youtube",
-      "url": "https://www.youtube.com/@ThunderHostBR"
+      "url": "https://www.youtube.com/@ThunderHostBR",
+      "isDefaultHidden": true
     },
     {
       "name": "Siga no Instagram",
       "icon": "instagram",
-      "url": "https://www.instagram.com/thunderhostbr"
+      "url": "https://www.instagram.com/thunderhostbr",
+      "isDefaultHidden": true
     }
   ],
   "navigation": [
