@@ -7,79 +7,53 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#00B7FF",
-    "light": "#07C983",
-    "dark": "#00B7FF",
+    "primary": "#0086FF",
+    "light": "#00C2FF",
+    "dark": "#0086FF",
     "anchors": {
-      "from": "#00B7FF",
-      "to": "#07C983"
+      "from": "#0086FF",
+      "to": "#00C2FF"
     }
   },
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://central.thundertophost.com.br/submitticket.php"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Area do cliente",
+    "url": "https://central.thundertophost.com.br/clientarea.php"
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Nosso Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/HDu86adJh8"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Nosso Youtube",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@ThunderHostBR"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Siga no Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/thunderhostbr"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Bem-vindo",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "introduction"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/HDu86adJh8",
+    "youtube": "https://www.youtube.com/@ThunderHostBR",
+    "instagram": "https://www.instagram.com/thunderhostbr",
+    "facebook": "https://www.facebook.com/thunderhostbr"
   }
 }
