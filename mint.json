@@ -42,8 +42,9 @@
       "url": "https://www.instagram.com/thunderhostbr"
     }
   ],
-  "primaryTab": {
-    "name": "Home"
+  "topAnchor": {
+      "name": "Home",
+      "icon": "building"
   },
   "navigation": [
     {
