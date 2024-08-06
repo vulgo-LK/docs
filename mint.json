@@ -25,9 +25,7 @@
     "name": "Area do cliente",
     "url": "https://central.thundertophost.com.br/clientarea.php"
   },
-  "topAnchor": {
-    "name": ""
-  },
+  "isDefaultOculto": true,
   "anchors": [
     {
       "name": "Nosso Discord",
