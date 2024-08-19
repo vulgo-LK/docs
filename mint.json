@@ -69,10 +69,10 @@
     {
       "group": "Tutoriais",
       "pages": [
-        "tutoriais/vps",
-        "tutoriais/fivem",
-        "tutoriais/dominio",
-        "tutoriais/keypatreon"
+        "vps",
+        "fivem",
+        "dominio",
+        "keypatreon"
       ]
     },
     {
