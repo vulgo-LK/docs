@@ -3,7 +3,7 @@
   "name": "Thunder Host",
   "logo": {
     "dark": "/logo/dark.png",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.png"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -16,10 +16,6 @@
     }
   },
   "theme": "prism",
-  "modeToggle": {
-    "default": "dark",
-    "isHidden": true
-  },
   "topbarLinks": [
     {
       "name": "Suporte",
