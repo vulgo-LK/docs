@@ -19,12 +19,12 @@
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "https://central.thundertophost.com.br/submitticket.php"
+      "url": "https://financeiro.neopixel.host/submitticket.php"
     }
   ],
   "topbarCtaButton": {
     "name": "Area do cliente",
-    "url": "https://central.thundertophost.com.br/clientarea.php"
+    "url": "https://financeiro.neopixel.host/clientarea.php"
   },
   "topAnchor": {
     "name": "Documentação",
@@ -34,7 +34,7 @@
     {
       "name": "Nosso Discord",
       "icon": "discord",
-      "url": "https://discord.gg/HDu86adJh8"
+      "url": "https://discord.gg/neopixel"
     },
     {
       "name": "Nosso Youtube",
@@ -80,7 +80,7 @@
     }
   ],
   "footerSocials": {
-    "discord": "https://discord.gg/HDu86adJh8",
+    "discord": "https://discord.gg/neopixel",
     "youtube": "https://www.youtube.com/@ThunderHostBR",
     "instagram": "https://www.instagram.com/thunderhostbr",
     "facebook": "https://www.facebook.com/thunderhostbr"
