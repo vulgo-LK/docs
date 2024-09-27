@@ -58,8 +58,7 @@
       "group": "Painel de controle",
       "pages": [
         "painel/trocar-senha-vps",
-        "painel/formatar-vps",
-        "painel/upgrade-vps"
+        "painel/formatar-vps"
       ]
     },
     {
