@@ -1,0 +1,25 @@
+---
+title: Como resolver o problema do VPS desconectar no RDP
+description: 'Neste guia, mostraremos como resolver o problema do VPS desconectar no RDP.'
+---
+
+## VPS Desconectar no RDP
+
+O erro interno geralmente está relacionado ao número de conexões pendentes no VPS. Existe um tipo de ataque conhecido como **force RDP**, que consiste em um bot que tenta se conectar repetidamente ao servidor, tentando adivinhar a senha da máquina.
+
+<img height="200" src="/images/vps/erro-interno/erro-interno.png" />
+
+## Como resolver o Erro interno
+
+1. Primeiro, você deve estabelecer uma conexão com o seu VPS.
+2. Para se conectar, você pode tentar forçar a conexão (**conectar repetidamente até conseguir**) ou utilizar o VNC disponível no painel do nosso site.
+3. Com acesso, você pode aumentar o número de conexões pendentes para evitar o erro interno ou alterar a porta da conexão remota (**RDP**).
+
+## Aumentando a quantidade de conexões
+
+1. Abra o cmd do seu VPS.
+2. Execute o comando: ``REG ADD "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server" /v MaxOutstandingConnections /t REG_DWORD /d 1000``
+
+<img height="200" src="/images/vps/erro-interno/cmd-vps.png" />
+
+<Note>Onde está o número 1000, é a quantidade de conexões pendentes disponiveis.</Note>
